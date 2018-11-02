@@ -12,4 +12,11 @@ Django: 2.0.2
 ### 富文本编辑器Ueditor下载地址
 [点击下载](https://github.com/twz915/DjangoUeditor3/)<br /> 
 
+注：
+超级用户无法登录错误解决办法：注释掉apps里的users中的signals信号量
+
+参考资料：
+https://blog.csdn.net/jamin2018/article/details/78907997#t9
+
+
 
